@@ -107,7 +107,7 @@ def detect_face_on_video(
 
 ![](result_video/gif/new_1_people-applauds.gif) **Гиф. 1**
 
-![](result_video\gif\new_1_blur_people-applauds.gif) **Гиф. 2**
+![](result_video/gif/new_1_blur_people-applauds.gif) **Гиф. 2**
 </div>
 
 Вот ещё примеры этого же видео, но с качеством поиска лица равным **2**. Разница очень заметна.
